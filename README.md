@@ -6,5 +6,5 @@
 - Python  
 - SQL  
 - Data Analysis  
-- Machine Learning (beginner)  
+- Machine Learning  
 - Data Visualization  
